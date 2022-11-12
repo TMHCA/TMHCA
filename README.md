@@ -7,3 +7,9 @@
 ###### not suspicious <a href="https://www.youtube.com/watch?v=aAkMkVFwAoo" target="_blank">*link*</a>
 
 :)
+
+
+<div>
+  <img src="https://gifs.com/gif/doge-meme-song-wjxw1M"></img>
+  <img src="https://giphy.com/gifs/wow-doge-fractal-oBQZIgNobc7ewVWvCd"></img>
+</div>
