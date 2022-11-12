@@ -10,7 +10,6 @@
 
 
 <div>
-  <img src="https://gifs.com/gif/doge-meme-song-wjxw1M" width="100"/>
-  <img src="https://giphy.com/gifs/wow-doge-fractal-oBQZIgNobc7ewVWvCd" width="100"/>
+  <img src="https://j.gifs.com/wjxw1M.gif" width="100"/>
+  <img src="https://media.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy-downsized-large.gif" width="100"/>
 </div>
-<img src="https://giphy.com/embed/oBQZIgNobc7ewVWvCd" width="480" height="480"/>
