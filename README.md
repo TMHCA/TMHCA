@@ -8,6 +8,8 @@
 
 :)
 
+![Snake animation](https://github.com/TMHCA/TMHCA/blob/output/github-contribution-grid-snake.svg)
+
 
 <div>
   <img src="https://j.gifs.com/wjxw1M.gif" width="100"/>
