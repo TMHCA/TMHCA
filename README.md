@@ -5,7 +5,7 @@
 ### not suspicious <a href="https://www.youtube.com/watch?v=aAkMkVFwAoo" target="_blank">*link*</a>
 
 
-![Snake animation](https://github.com/TMHCA/TMHCA/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TMHCA/TMHCA/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div>
   <img src="https://media.giphy.com/media/54Vj1kxvgyF4k/giphy.gif" width="100"/>
